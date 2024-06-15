@@ -17,7 +17,7 @@ Six random cells with numbers smaller than or equal to 128 will be cleared and t
 
 To run code and play game, type "python3 New2048.py" into the terminal.
 
-Sample gameplay:
+Sample gameplay:<br>
     2     0     4     0
     0     0     0     0
     0     0     0     0
