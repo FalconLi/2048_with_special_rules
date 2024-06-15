@@ -18,19 +18,19 @@ Six random cells with numbers smaller than or equal to 128 will be cleared and t
 To run code and play game, type "python3 New2048.py" into the terminal.
 
 Sample gameplay:<br>
-    2     0     4     0
-    0     0     0     0
-    0     0     0     0
-    2     0     0     0
-Score: 0
-Choose the direction to slide (a/w/s/d/e): w (Up)
-    4     0     4     0
-    0     0     0     0
-    0     0     0     2
-    0     0     0     0
-Score: 4
-The 2 in the third row and the fourth column is the randomly generated number after each slide. 
-The random number (2 or 4) can appear at any cell that is zero.
+    2     0     4     0<br>
+    0     0     0     0<br>
+    0     0     0     0<br>
+    2     0     0     0<br>
+Score: 0<br>
+Choose the direction to slide (a/w/s/d/e): w (Up)<br>
+    4     0     4     0<br>
+    0     0     0     0<br>
+    0     0     0     2<br>
+    0     0     0     0<br>
+Score: 4<br>
+The 2 in the third row and the fourth column is the randomly generated number after each slide. <br>
+The random number (2 or 4) can appear at any cell that is zero.<br>
 
 To choose in which direction numbers will slide, please use this key input element:
 
