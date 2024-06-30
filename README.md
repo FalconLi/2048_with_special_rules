@@ -13,7 +13,7 @@ Once the player creates 2048 or reaches 25000 points, the player wins.
 If the player fails to create 2048 or 25000 points with all the cells already occupied (not equal to 0) and no chance of combining cells, the player will fail.
 
 If the player successfully creates numbers greater than or equal to 512, but then fails, the "game-not-over condition" is met and a second chance will be given.
-Six random cells with numbers smaller than or equal to 128 will be cleared and the player can choose to continue playing with a punishment of subtracting 2048 from the total score
+Six random cells with numbers smaller than or equal to 128 will be cleared and the player can choose to continue playing with a punishment of subtracting 2048 from the total score.
 
 To run code and play game, type "python3 New2048.py" into the terminal.
 
